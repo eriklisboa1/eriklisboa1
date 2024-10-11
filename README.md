@@ -1,8 +1,9 @@
 # Erik Lisboa 
 
 - 🔭 BACK-END
-- 🌱 Estudando JAVA/SPRINGBOOT  
-- 
+- 🌱 Estudando JAVA/SPRINGBOOT   
+- 💻 Delphi 10.3
+- 💻 PostgreSQL 
 
 </div>
 <div style="display: inline_block"><br>

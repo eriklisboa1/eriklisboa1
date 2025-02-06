@@ -1,4 +1,4 @@
-# Erik Lisboa 
+# Olá, eu sou o Erik Lisboa! 👋
 
 - 🔭 BACK-END
 - 🌱 Estudando JAVA/SPRINGBOOT   

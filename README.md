@@ -9,7 +9,7 @@
 </div>
 
 <p align="left">
-    <a href="https://github.com/CarlosFelipePaixao?tab=repositories&sort=stargazers">
+    <a href="[https://github.com/CarlosFelipePaixao?tab=repositories&sort=stargazers](https://github.com/eriklisboa1?tab=repositories)">
         <img 
             alt="Total de estrelas" 
             title="Total de estrelas GitHub" 

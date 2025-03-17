@@ -1,4 +1,5 @@
 # Olá, eu sou o Erik Lisboa! 👋
+**Desenvolvedor Java**
 
 - 🔭 BACK-END
 - 🌱 Estudando JAVA/SPRINGBOOT   
@@ -6,7 +7,7 @@
 - 💻 PostgreSQL 
 
 </div>
-**Desenvolvedor Java**
+
 
 <div style="display: inline_block"><br>
    <h2>BACK<h2>

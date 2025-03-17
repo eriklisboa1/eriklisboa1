@@ -6,6 +6,8 @@
 - 💻 PostgreSQL 
 
 </div>
+**Desenvolvedor Java**
+
 <div style="display: inline_block"><br>
    <h2>BACK<h2>
   <img align="center" alt="Erik-c#" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">

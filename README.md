@@ -18,9 +18,7 @@
     </a>
     <a href="https://github.com/CarlosFelipePaixao?tab=followers">
         <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src=https://github.com/eriklisboa1?tab=followers"
+          
         />
     </a>
 </p>

@@ -20,7 +20,7 @@
         <img 
             alt="Seguidores" 
             title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/CarlosFelipePaixao?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+            src=https://github.com/eriklisboa1?tab=followers"
         />
     </a>
 </p>

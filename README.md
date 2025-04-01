@@ -44,3 +44,8 @@
 <a href="https://api.whatsapp.com/send?phone=5575988690601" target="_blank">
   <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 </a>
+
+<a href="https://eriklisboa1.github.io/website/" target="_blank">
+  <img src="https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=about-dot-me&logoColor=white" />
+</a>
+

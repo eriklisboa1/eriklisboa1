@@ -33,7 +33,7 @@
 
 ### 📬 Contato
 
-<div align="center">
+
 
   <a href="mailto:eriklisboa72@outlook.com" target="_blank">
     <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" />
@@ -51,6 +51,5 @@
     <img src="https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=about-dot-me&logoColor=white" />
   </a>
 
-</div>
 
 

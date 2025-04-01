@@ -2,7 +2,7 @@
 ### Desenvolvedor Java
 
 - 🔭 Foco em desenvolvimento **Java** e **Spring Boot**
-- 💻 Experiência com **Delphi 10.3**
+- 💻 Experiência com **Delphi 10.3**, **Java 8**
 - 🛢️ Banco de dados: **PostgreSQL**
 
 ---

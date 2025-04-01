@@ -1,8 +1,9 @@
 # 👋 Olá, eu sou o Erik Lisboa!  
 ### Desenvolvedor Java
 
-- 🔭 Foco em desenvolvimento **Java** e **Spring Boot**
-- 💻 Experiência com **Delphi 10.3**, **Java 8**
+- 🔭 Foco em desenvolvimento **Back-End**
+- 🌱 Estudando **Java** e **Spring Boot**
+- 💻 Experiência com **Delphi 10.3**
 - 🛢️ Banco de dados: **PostgreSQL**
 
 ---
@@ -14,8 +15,6 @@
   <img align="center" alt="Java" height="40" width="40" src="https://icongr.am/devicon/java-original.svg">
   <img align="center" alt="CSharp" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="PostgreSQL" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
-<img align="center" alt="Delphi" height="40" width="40" src="delphi.png">
-
 </div>
 
 #### 🎨 Front-End:
@@ -27,23 +26,18 @@
 
 ---
 
-### 📊 GitHub Stats
+### 📊 Meu Painel de Tecnologias
 
-<p align="left">
-  <a href="https://github.com/eriklisboa1?tab=repositories">
-    <img 
-      alt="Total de estrelas" 
-      title="Total de estrelas GitHub" 
-      src="https://custom-icon-badges.demolab.com/github/stars/eriklisboa1?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-    />
-  </a>
-  <a href="https://github.com/eriklisboa1?tab=followers">
-    <img 
-      alt="Seguidores" 
-      title="Me siga no GitHub" 
-      src="https://custom-icon-badges.demolab.com/github/followers/eriklisboa1?color=blue&style=for-the-badge&label=seguidores&logo=person"
-    />
-  </a>
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eriklisboa1&layout=compact&langs_count=8&theme=tokyonight"/>
+</div>
+
+---
+
+### 📈 Estatísticas GitHub
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eriklisboa1&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 </p>
 
 ---

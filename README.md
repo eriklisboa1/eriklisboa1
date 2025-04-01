@@ -14,7 +14,7 @@
   <img align="center" alt="Java" height="40" width="40" src="https://icongr.am/devicon/java-original.svg">
   <img align="center" alt="CSharp" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="PostgreSQL" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
-  <img align="center" alt="Delphi" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg"> <!-- Não existe ícone específico de Delphi -->
+  <img align="center" alt="Delphi" height="40" width="40" src="delphi.png> <!-- Não existe ícone específico de Delphi -->
 </div>
 
 #### 🎨 Front-End:

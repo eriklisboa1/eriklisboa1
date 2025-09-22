@@ -39,10 +39,12 @@
   <a href="mailto:eriklisboa72@outlook.com" target="_blank">
     <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" />
   </a>
-
+  
+<button onclick="window.open('https://lisboa.vercel.app/', '_blank', 'noopener,noreferrer')">
 <a href="https://www.linkedin.com/in/eriklisboa-dev/" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
+</button>
 
 <a href="https://api.whatsapp.com/send?phone=5575988690601" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />

@@ -3,9 +3,11 @@
 
 
 - 🔭 Foco em desenvolvimento **Back-End**
-- 🌱 Estudando **Java** e **Spring Boot**
+- 🌱 Trabalho **Java** e **Spring Boot**
 - 💻 Experiência com **Delphi 10.3**
 - 🛢️ Banco de dados: **PostgreSQL**
+- 📚 Formado em **Análise e Desenvolvimento de Sistemas**
+
 
 ---
 
